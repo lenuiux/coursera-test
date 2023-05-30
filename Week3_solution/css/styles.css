@@ -1,0 +1,9 @@
+.col-xs-12{
+    background-color: grey;
+}
+@media (max-width: 767px){
+    h1{
+        color: red;
+    }
+
+}
